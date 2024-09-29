@@ -1,0 +1,223 @@
+.navbar {
+    background-color: rgb(3, 3, 119);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    margin: 0;
+    height: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.start,
+a,
+ul {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+nav {
+    display: flex;
+    padding: 100px;
+    font-size: small;
+}
+
+.start {
+    padding-left: 150px;
+    font-size: larger;
+}
+
+.div1 {
+    text-align: center;
+    background-color: rgb(9, 207, 207);
+    height: 500px;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 30px;
+    border: 1px solid white;
+    border-radius: 100px;
+    border: none;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    margin-top: 6px;
+}
+
+hr {
+    width: 160px;
+    border-color: white;
+    height: 2px;
+    background-color: white;
+    border: white;
+}
+
+p {
+    color: white;
+    margin-top: 30px;
+
+}
+
+.section {
+    text-align: center;
+    padding-top: 44px;
+}
+
+.h11 {
+    color: rgb(51, 50, 50);
+}
+
+.hrr {
+    color: rgb(51, 50, 50);
+    width: 160px;
+    border-color: rgb(51, 50, 50);
+    height: 2px;
+    background-color: rgb(51, 50, 50);
+    border: rgb(51, 50, 50);
+}
+
+.all img {
+    width: 230px;
+}
+
+.home {
+    background-color: brown;
+}
+
+.jat {
+    background-color: rgb(5, 129, 88);
+}
+
+.black {
+    background-color: black;
+}
+
+.org {
+    background-color: darkgreen;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.beg {
+    background-color: burlywood;
+}
+
+.about {
+    background-color: rgb(8, 185, 111);
+    text-align: center;
+    height: 299px;
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 50px;
+}
+
+.div4 {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p1,
+.p2 {
+    width: 490px;
+}
+
+.sec {
+    background-color: white;
+    text-align: center;
+    padding-top: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    display: grid;
+    height: 300px;
+    padding: 100px;
+}
+
+.h {
+    background-color: black;
+}
+
+.co {
+    color: black;
+    padding-top: 44px;
+}
+
+button {
+    background-color: green;
+    width: 70px;
+    height: 40px;
+    border: rgb(3, 129, 151);
+    margin-right: 80%;
+    background-color: green;
+}
+
+input {
+    width: 50%;
+    border: none;
+    border-bottom: 2px solid rgb(204, 201, 201);
+    padding-bottom: 22px;
+    outline: none;
+    margin-bottom: 10px;
+}
+
+.send {
+    width: 100px;
+    padding-left: 23%;
+    color: white;
+    border: none;
+}
+
+.final {
+    background-color: rgb(63, 62, 62);
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 44px;
+
+}
+
+u {
+    color: aquamarine;
+}
+
+h4 {
+    text-align: center;
+    padding-right: 80px;
+    font-size: 15px;
+}
+
+.pp {
+    width: 500px;
+}
+
+i {
+    width: 30px;
+    font-size: 24px;
+}
+
+i:hover {
+    background-color: rgb(61, 61, 230);
+}
+
+.finalpp {
+    background-color: rgb(32, 32, 32);
+    text-align: center;
+    padding-top: 20px;
+    height: 25px;
+    margin: 0;
+}
